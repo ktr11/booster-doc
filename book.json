@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    "-sharing",
+    "hide-published-with",
+    "expand-active-chapter"
+  ],
+  "language": "ja"
+}
