@@ -3,8 +3,8 @@
 * フロントエンド
   * HTML/CSS
   * JavaScript
-  * Vue.js
-  * Vuetify
+  * React
+  * Material UI
 * バックエンド
   * Ruby 3.0.2
   * Ruby on Rails 6.1.4

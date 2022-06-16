@@ -7,6 +7,5 @@
   * [使用技術](yao-jian-ding-yi/shi-yong-ji-shu.md)
   * [環境構成図](yao-jian-ding-yi/huan-jing-gou-cheng-tu.md)
 * [設計](she-ji/README.md)
-  * [画面設計](she-ji/hua-mian-she-ji/README.md)
-    * [ログイン](she-ji/hua-mian-she-ji/roguin.md)
+  * [画面設計](she-ji/hua-mian-she-ji.md)
   * [画面遷移図](she-ji/hua-mian-qian-yi-tu.md)
